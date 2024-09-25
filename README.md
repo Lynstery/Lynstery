@@ -1,4 +1,11 @@
 ## Hi there 👋
+- 👨‍🎓 My name is Zheng Han, first-year PhD student in Computer Science.
+- 📍 Nanjing University
+- 💻 I'm interested in edge computing, computer vision.
+- 📫 How to reach me:
+  - email: hanzheng@smail.nju.edu.cn
+
+
 
 <!--
 **Lynstery/Lynstery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
