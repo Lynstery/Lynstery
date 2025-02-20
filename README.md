@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 👨‍🎓 My name is Zheng Han, first-year PhD student in Computer Science.
 - 📍 Nanjing University
-- 💻 I'm interested in edge computing, computer vision.
+- 💻 I'm interested in edge computing, reinforcement learning.
 - 📫 How to reach me:
   - email: hanzheng@smail.nju.edu.cn
 
