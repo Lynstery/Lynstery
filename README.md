@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 👨‍🎓 My name is Zheng Han, first-year PhD student in Computer Science.
+- 👨‍🎓 My name is Zheng Han, second-year PhD student in Computer Science.
 - 📍 Nanjing University
 - 💻 I'm interested in edge computing, video analytics, generative AI.
 - 📫 How to reach me:
